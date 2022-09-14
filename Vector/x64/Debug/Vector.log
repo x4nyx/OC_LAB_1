@@ -1,0 +1,10 @@
+﻿  pch.cpp
+D:\Programming\OC_labs\lab\Vector\Vector.h(13,9): warning C4251: Vector::x: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+D:\Programming\OC_labs\lab\Number\Number.h(6): message : см. объявление "Number"
+D:\Programming\OC_labs\lab\Vector\Vector.h(14,9): warning C4251: Vector::y: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+D:\Programming\OC_labs\lab\Number\Number.h(6): message : см. объявление "Number"
+  Vector.cpp
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека D:\Programming\OC_labs\lab\Vector\x64\Debug\Vector.lib и объект D:\Programming\OC_labs\lab\Vector\x64\Debug\Vector.exp
+  Vector.vcxproj -> D:\Programming\OC_labs\lab\Vector\x64\Debug\Vector.dll
